@@ -1,0 +1,14 @@
+[
+  {
+    "id": "factory/inj108qzd6iu6l6adl6kxm0qeyshlmzf3w9mnq1jav/dune",
+    "name": "DuneInj",
+    "symbol": "dune",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "100000000",
+    "total_supply": "100000000",
+    "icon": "needed"
+  },
+]
+
+//
