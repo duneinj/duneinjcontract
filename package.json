@@ -1,0 +1,21 @@
+{
+  "name": "injective-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "networks.js",
+  "dependencies": {
+    "@openzeppelin/contracts-ethereum-package": "^2.4.0",
+    "@openzeppelin/upgrades": "^2.6.0",
+    "web3": "^1.2.6"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.0.23",
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
